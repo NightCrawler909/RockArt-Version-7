@@ -5,7 +5,7 @@ const navItems = [
   { label: "Home", target: "home", type: "anchor" },
   { label: "Features", target: "features", type: "anchor" },
   { label: "Workflow", target: "workflow", type: "anchor" },
-  { label: "Model Flow", target: "/model-flow", type: "route", variant: "ghost" },
+  { label: "Model Flow", target: "model-flow", type: "anchor" },
   { label: "Dashboard", target: "/dashboard", type: "route", variant: "primary" },
 ];
 

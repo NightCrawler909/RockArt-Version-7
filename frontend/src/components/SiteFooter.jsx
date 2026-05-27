@@ -12,7 +12,7 @@ export default function SiteFooter() {
         </div>
         <div className="flex flex-wrap items-center gap-4 text-sm">
           <a
-            href="https://github.com"
+            href="https://github.com/NightCrawler909"
             target="_blank"
             rel="noreferrer"
             className="inline-flex items-center gap-2 rounded-full border border-white/10 px-4 py-2 text-white/80 transition hover:border-white/30"

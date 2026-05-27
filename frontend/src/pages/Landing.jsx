@@ -4,6 +4,7 @@ import HeroSection from "../components/HeroSection.jsx";
 import FeaturesSection from "../components/FeaturesSection.jsx";
 import WorkflowSection from "../components/WorkflowSection.jsx";
 import StatsSection from "../components/StatsSection.jsx";
+import ModelFlowSection from "../components/ModelFlowSection.jsx";
 import SiteFooter from "../components/SiteFooter.jsx";
 
 export default function Landing() {
@@ -27,6 +28,7 @@ export default function Landing() {
         <FeaturesSection />
         <WorkflowSection />
         <StatsSection />
+        <ModelFlowSection />
       </main>
       <SiteFooter />
     </div>
